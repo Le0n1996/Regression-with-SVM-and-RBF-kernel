@@ -1,2 +1,2 @@
 # Regression with SVM and RBF kernel
- Comparison of several kernels in regression problem
+ Comparison of kernels in regression problem (RBF vs polinomial)
